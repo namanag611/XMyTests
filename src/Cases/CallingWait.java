@@ -18,7 +18,8 @@ public class CallingWait {
 	@Test
 	public void run1() throws InterruptedException {
 
-		boolean result;
+		boolean result;// To get the result
+		int i;
 		// System.setProperty("webdriver.chrome.driver",
 		// "D:\\Automation_Environment\\ChromeIE_Drivers\\chromedriver.exe");
 		System.setProperty("webdriver.gecko.driver", "D:\\Automation_Environment\\ChromeIE_Drivers\\geckodriver.exe");
