@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26717" started-at="2017-01-29T17:20:47Z" finished-at="2017-01-29T17:21:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26717" started-at="2017-01-29T17:20:47Z" finished-at="2017-01-29T17:21:13Z">
+      <class name="Cases.testRecordVideo">
+        <test-method status="PASS" signature="testGoogleSearch()[pri:0, instance:Cases.testRecordVideo@f5e5e3]" name="testGoogleSearch" duration-ms="24958" started-at="2017-01-29T22:50:47Z" finished-at="2017-01-29T22:51:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGoogleSearch -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Cases.testRecordVideo@f5e5e3]" name="close" is-config="true" duration-ms="1694" started-at="2017-01-29T22:51:12Z" finished-at="2017-01-29T22:51:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Cases.testRecordVideo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
