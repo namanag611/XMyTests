@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="14904" started-at="2017-02-11T15:49:07Z" finished-at="2017-02-11T15:49:22Z">
+  <suite name="Default suite" duration-ms="13750" started-at="2017-02-11T16:06:39Z" finished-at="2017-02-11T16:06:52Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="14904" started-at="2017-02-11T15:49:07Z" finished-at="2017-02-11T15:49:22Z">
-      <class name="Cases.locateXYposition">
-        <test-method status="PASS" signature="start()[pri:0, instance:Cases.locateXYposition@16d4b5c]" name="start" is-config="true" duration-ms="10874" started-at="2017-02-11T21:19:07Z" finished-at="2017-02-11T21:19:18Z">
+    <test name="Default test" duration-ms="13750" started-at="2017-02-11T16:06:39Z" finished-at="2017-02-11T16:06:52Z">
+      <class name="Cases.getHeightWidth">
+        <test-method status="PASS" signature="start()[pri:0, instance:Cases.getHeightWidth@16d4b5c]" name="start" is-config="true" duration-ms="9240" started-at="2017-02-11T21:36:39Z" finished-at="2017-02-11T21:36:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- start -->
-        <test-method status="PASS" signature="locateXY()[pri:0, instance:Cases.locateXYposition@16d4b5c]" name="locateXY" duration-ms="1911" started-at="2017-02-11T21:19:18Z" finished-at="2017-02-11T21:19:20Z">
+        <test-method status="PASS" signature="getHeightWidth()[pri:0, instance:Cases.getHeightWidth@16d4b5c]" name="getHeightWidth" duration-ms="2440" started-at="2017-02-11T21:36:48Z" finished-at="2017-02-11T21:36:50Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- locateXY -->
-        <test-method status="PASS" signature="end()[pri:0, instance:Cases.locateXYposition@16d4b5c]" name="end" is-config="true" duration-ms="2081" started-at="2017-02-11T21:19:20Z" finished-at="2017-02-11T21:19:22Z">
+        </test-method> <!-- getHeightWidth -->
+        <test-method status="PASS" signature="end()[pri:0, instance:Cases.getHeightWidth@16d4b5c]" name="end" is-config="true" duration-ms="2032" started-at="2017-02-11T21:36:50Z" finished-at="2017-02-11T21:36:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- end -->
-      </class> <!-- Cases.locateXYposition -->
+      </class> <!-- Cases.getHeightWidth -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
