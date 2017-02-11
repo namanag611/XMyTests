@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="13750" started-at="2017-02-11T16:06:39Z" finished-at="2017-02-11T16:06:52Z">
+  <suite name="Default suite" duration-ms="14039" started-at="2017-02-11T18:31:46Z" finished-at="2017-02-11T18:32:00Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="13750" started-at="2017-02-11T16:06:39Z" finished-at="2017-02-11T16:06:52Z">
-      <class name="Cases.getHeightWidth">
-        <test-method status="PASS" signature="start()[pri:0, instance:Cases.getHeightWidth@16d4b5c]" name="start" is-config="true" duration-ms="9240" started-at="2017-02-11T21:36:39Z" finished-at="2017-02-11T21:36:48Z">
+    <test name="Default test" duration-ms="14039" started-at="2017-02-11T18:31:46Z" finished-at="2017-02-11T18:32:00Z">
+      <class name="Cases.screenShotofElement">
+        <test-method status="PASS" signature="start()[pri:0, instance:Cases.screenShotofElement@16a51ab]" name="start" is-config="true" duration-ms="8149" started-at="2017-02-12T00:01:46Z" finished-at="2017-02-12T00:01:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- start -->
-        <test-method status="PASS" signature="getHeightWidth()[pri:0, instance:Cases.getHeightWidth@16d4b5c]" name="getHeightWidth" duration-ms="2440" started-at="2017-02-11T21:36:48Z" finished-at="2017-02-11T21:36:50Z">
+        <test-method status="PASS" signature="HeightWidth()[pri:0, instance:Cases.screenShotofElement@16a51ab]" name="HeightWidth" duration-ms="3659" started-at="2017-02-12T00:01:54Z" finished-at="2017-02-12T00:01:58Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- getHeightWidth -->
-        <test-method status="PASS" signature="end()[pri:0, instance:Cases.getHeightWidth@16d4b5c]" name="end" is-config="true" duration-ms="2032" started-at="2017-02-11T21:36:50Z" finished-at="2017-02-11T21:36:52Z">
+        </test-method> <!-- HeightWidth -->
+        <test-method status="PASS" signature="end()[pri:0, instance:Cases.screenShotofElement@16a51ab]" name="end" is-config="true" duration-ms="2190" started-at="2017-02-12T00:01:58Z" finished-at="2017-02-12T00:02:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- end -->
-      </class> <!-- Cases.getHeightWidth -->
+      </class> <!-- Cases.screenShotofElement -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

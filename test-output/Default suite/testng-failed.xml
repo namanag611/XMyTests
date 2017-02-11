@@ -3,13 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="Cases.locateXYposition">
+      <class name="Cases.screenShotofElement">
         <methods>
-          <include name="locateXY"/>
           <include name="start"/>
           <include name="end"/>
+          <include name="HeightWidth"/>
         </methods>
-      </class> <!-- Cases.locateXYposition -->
+      </class> <!-- Cases.screenShotofElement -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
