@@ -3,11 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="Cases.testRecordVideo">
+      <class name="Cases.locateXYposition">
         <methods>
-          <include name="testGoogleSearch"/>
+          <include name="locateXY"/>
+          <include name="start"/>
+          <include name="end"/>
         </methods>
-      </class> <!-- Cases.testRecordVideo -->
+      </class> <!-- Cases.locateXYposition -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
