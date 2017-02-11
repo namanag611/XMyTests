@@ -29,7 +29,7 @@ public class getHeightWidth {
 	}
 
 	@Test
-	public void getHeightWidth() {
+	public void HeightWidth() {
 		wd.get("http://localhost:81/Default.aspx");
 		wd.manage().window().maximize();
 		WebElement logo = wd.findElement(By.xpath("//a[contains(text(),'urShop')]"));
