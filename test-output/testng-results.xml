@@ -1,25 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="14039" started-at="2017-02-11T18:31:46Z" finished-at="2017-02-11T18:32:00Z">
+  <suite name="Default suite" duration-ms="29459" started-at="2017-02-12T05:46:50Z" finished-at="2017-02-12T05:47:20Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="14039" started-at="2017-02-11T18:31:46Z" finished-at="2017-02-11T18:32:00Z">
-      <class name="Cases.screenShotofElement">
-        <test-method status="PASS" signature="start()[pri:0, instance:Cases.screenShotofElement@16a51ab]" name="start" is-config="true" duration-ms="8149" started-at="2017-02-12T00:01:46Z" finished-at="2017-02-12T00:01:54Z">
+    <test name="Default test" duration-ms="29459" started-at="2017-02-12T05:46:50Z" finished-at="2017-02-12T05:47:20Z">
+      <class name="Cases.scrollDownWebpage">
+        <test-method status="PASS" signature="start()[pri:0, instance:Cases.scrollDownWebpage@16d4b5c]" name="start" is-config="true" duration-ms="10723" started-at="2017-02-12T11:16:50Z" finished-at="2017-02-12T11:17:01Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- start -->
-        <test-method status="PASS" signature="HeightWidth()[pri:0, instance:Cases.screenShotofElement@16a51ab]" name="HeightWidth" duration-ms="3659" started-at="2017-02-12T00:01:54Z" finished-at="2017-02-12T00:01:58Z">
+        <test-method status="PASS" signature="scrollpage()[pri:1, instance:Cases.scrollDownWebpage@16d4b5c]" name="scrollpage" duration-ms="3107" started-at="2017-02-12T11:17:01Z" finished-at="2017-02-12T11:17:04Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- HeightWidth -->
-        <test-method status="PASS" signature="end()[pri:0, instance:Cases.screenShotofElement@16a51ab]" name="end" is-config="true" duration-ms="2190" started-at="2017-02-12T00:01:58Z" finished-at="2017-02-12T00:02:00Z">
+        </test-method> <!-- scrollpage -->
+        <test-method status="PASS" signature="end()[pri:0, instance:Cases.scrollDownWebpage@16d4b5c]" name="end" is-config="true" duration-ms="1680" started-at="2017-02-12T11:17:04Z" finished-at="2017-02-12T11:17:06Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- end -->
-      </class> <!-- Cases.screenShotofElement -->
+        <test-method status="PASS" signature="start()[pri:0, instance:Cases.scrollDownWebpage@16d4b5c]" name="start" is-config="true" duration-ms="9019" started-at="2017-02-12T11:17:06Z" finished-at="2017-02-12T11:17:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="Scroll_Page()[pri:2, instance:Cases.scrollDownWebpage@16d4b5c]" name="Scroll_Page" duration-ms="3183" started-at="2017-02-12T11:17:15Z" depends-on-methods="Cases.scrollDownWebpage.scrollpage" finished-at="2017-02-12T11:17:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scroll_Page -->
+        <test-method status="PASS" signature="end()[pri:0, instance:Cases.scrollDownWebpage@16d4b5c]" name="end" is-config="true" duration-ms="1706" started-at="2017-02-12T11:17:18Z" finished-at="2017-02-12T11:17:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- Cases.scrollDownWebpage -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
