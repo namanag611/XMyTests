@@ -7,5 +7,6 @@
 	<classpathentry kind="lib" path="D:/Automation_Environment/Jars/monte-cc.jar"/>
 	<classpathentry kind="lib" path="D:/Automation_Environment/Jars/ScreenRecorder.jar"/>
 	<classpathentry kind="lib" path="D:/Automation_Environment/Jars/MonteScreenRecorder.jar"/>
+	<classpathentry kind="lib" path="D:/Automation_Environment/Jars/poi-3.15.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
