@@ -17,7 +17,7 @@ public class readdatafromXLSpasswordprotected {
 
 	@Test()
 	public void readdata() throws IOException {
-
+		String i = null;
 		String excelFilePath = "C:\\Users\\NAMAN\\Desktop\\Book1.xls";
 		boolean readOnly = true;
 
